@@ -11,6 +11,11 @@ class GFG
 
         int[,] arr = new int[A.Length, 2];
 
+        if(A.Length!=B.Length)
+        {
+            return false;
+        }
+
         for (int i = 0; i < A.Length; i++)
         {
             arr[i, 0] = A[i];
@@ -40,7 +45,7 @@ class GFG
     }
     public static void Main(String[] args)
 	{
-        int[] A = { 2, 5, 10, 6, 8, 2, 2 };
+        int[] A = { 2, 5, 10, 6, 8, 2, 2,3 };
         int[] B = { 2, 5, 6, 8, 10, 2, 2 };
 
         if (checkarr(A, B))
