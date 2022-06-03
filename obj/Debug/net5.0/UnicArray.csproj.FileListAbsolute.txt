@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\TayqaTech\UnicArray\bin\Debug\net5.0\UnicArray.exe
+C:\Users\User\Desktop\TayqaTech\UnicArray\bin\Debug\net5.0\UnicArray.deps.json
+C:\Users\User\Desktop\TayqaTech\UnicArray\bin\Debug\net5.0\UnicArray.runtimeconfig.json
+C:\Users\User\Desktop\TayqaTech\UnicArray\bin\Debug\net5.0\UnicArray.runtimeconfig.dev.json
+C:\Users\User\Desktop\TayqaTech\UnicArray\bin\Debug\net5.0\UnicArray.dll
+C:\Users\User\Desktop\TayqaTech\UnicArray\bin\Debug\net5.0\ref\UnicArray.dll
+C:\Users\User\Desktop\TayqaTech\UnicArray\bin\Debug\net5.0\UnicArray.pdb
+C:\Users\User\Desktop\TayqaTech\UnicArray\obj\Debug\net5.0\UnicArray.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TayqaTech\UnicArray\obj\Debug\net5.0\UnicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TayqaTech\UnicArray\obj\Debug\net5.0\UnicArray.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TayqaTech\UnicArray\obj\Debug\net5.0\UnicArray.AssemblyInfo.cs
+C:\Users\User\Desktop\TayqaTech\UnicArray\obj\Debug\net5.0\UnicArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TayqaTech\UnicArray\obj\Debug\net5.0\UnicArray.dll
+C:\Users\User\Desktop\TayqaTech\UnicArray\obj\Debug\net5.0\ref\UnicArray.dll
+C:\Users\User\Desktop\TayqaTech\UnicArray\obj\Debug\net5.0\UnicArray.pdb
+C:\Users\User\Desktop\TayqaTech\UnicArray\obj\Debug\net5.0\UnicArray.genruntimeconfig.cache
